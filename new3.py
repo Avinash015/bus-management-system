@@ -4,7 +4,6 @@ import tkinter.messagebox as mb
 from tkinter import ttk
 from tkcalendar import DateEntry  # pip install tkcalendar
 import sqlite3
-import streamlit as st
 import sys
 import os
 
